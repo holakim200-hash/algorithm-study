@@ -4,6 +4,9 @@ s<br>
 "try hello world"<br><br>
 return<br>
 "TrY HeLlO WoRlD"<br>
+solution.java(split으로 재배열, append활용)<br>
+solution2.java(toCharArray 활용)<br>
+solution3.java(메서드 활용)<br>
 
 ## 어려웠던 점
 문자열 안에서 띄워쓰기를 기준으로 홀짝 카운팅을 다시 해야 한다는 점
