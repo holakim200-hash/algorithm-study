@@ -1,4 +1,4 @@
-public String solution2(String s) {
+public String solution3(String s) {
     String[] words = s.split(" ", -1);
     StringBuilder answer = new StringBuilder();
 
