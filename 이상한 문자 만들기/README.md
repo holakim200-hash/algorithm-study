@@ -5,7 +5,7 @@ s<br>
 return<br>
 "TrY HeLlO WoRlD"<br><br>
 
-solution.java(split으로 재배열)<br>
+solution.java(StringBuilder, split으로 재배열)<br>
 solution2.java(toCharArray 활용)<br>
 solution3.java(메서드 활용)<br>
 
