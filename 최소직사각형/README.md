@@ -5,12 +5,10 @@
 
 ## 어려웠던 점
 명함이 90도 회전이 가능하다는 것을 고려해야하 한다는 점<br>
-그래서 초기 계획은 가능한 가장 큰 범위를 잡아두고 회전했을때 공간이
+그래서 초기 계획은 가능한 가장 큰 범위를 잡아두고 카드의 가로 세로가 바꼈을 때의 값도 비교하려고 했다.
 
 ## 새로 배운 점
-(solution) String으로 받아서 StringBuilder에 append로 변환한 문자를 추가한 뒤 .toString으로 return하는 점<br>
-(solution2) 그냥 char[] chars 에 toCharArray로 문자열을 변환 해서 넣고 char[]안에서 수정하고 new String(chars)로 return점<br>
-(solution3)<br>
-
+가로 세로의 길이의 값을 미리 통제하고 계산하기 (가로 > 세로)<br>
+그리디 알고리즘의 특징인 미리 정렬해놓고 경우의 수를 계산하는 것과 같은 맥락<br>
 StringBuilder와 toCharArray의 쓰임새 차이<br>
 배열과 문자열 리터럴의 차이<br>
