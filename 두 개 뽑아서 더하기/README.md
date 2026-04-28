@@ -13,5 +13,4 @@ result<br>
 
 ## 새로 배운 점
 1.TreeSet을 이용하는 방법(solution.java)
-2.
 
