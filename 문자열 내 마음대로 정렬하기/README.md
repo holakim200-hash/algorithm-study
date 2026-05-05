@@ -15,5 +15,5 @@ result : ["abcd", "abce", "cdx"] <br>
 구체적으로 어떻게 해야할지 감이 안잡힌다.<br>
 
 ## 새로 배운 점
-solution.java n번째 글자를 원래의 문자열 앞에 붙여서 list에 넣은 다음 Collection.sort를 하는 법
+solution.java (n번째 글자를 원래의 문자열 앞에 붙여서 list에 넣은 다음 Collection.sort를 하는 법)
 
